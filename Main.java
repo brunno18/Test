@@ -8,5 +8,17 @@ public class Main
 		System.out.println( "Sorry" );
 		System.out.println( "Sorry" );
 		System.out.println( "Sorry" );
+		
+		System.out.println( "Sorry" );
+		
+		System.out.println( "Sorry" );
+		
+		System.out.println( "Sorry" );
+		
+		System.out.println( "Sorry" );
+		
+		System.out.println( "Sorry" );
+		
+		System.out.println( "Sorry" );
 	}
 }
