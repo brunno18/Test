@@ -1,4 +1,4 @@
-public class Mazer
+public class Teste
 {
 	public static void main ()
 	{
